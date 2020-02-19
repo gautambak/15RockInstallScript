@@ -2,7 +2,7 @@
 
 
 DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" >/dev/null 2>&1 && pwd)"
-DOWNLOAD_URL=${DOWNLOAD_URL:-"https://drive.google.com/uc?id=1TXriTjayM3x6fs7rui51lZ_cFOUFC_lV"}
+DOWNLOAD_URL=${DOWNLOAD_URL:-"https://drive.google.com/uc?id=1pVfXdD_CA6wzYvdxlTCyVhiVcOApVFkV"}
 
 sudo apt-get update
 sudo apt install -y python3 python3-pip
