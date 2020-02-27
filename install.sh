@@ -4,6 +4,7 @@
 DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" >/dev/null 2>&1 && pwd)"
 DOWNLOAD_URL=${DOWNLOAD_URL:-"https://drive.google.com/uc?id=1IbqOEW08PKRE-Ritgin1dhMJrMUTHgfv"}
 
+
 sudo apt-get update
 sudo apt install -y python3 python3-pip
 pip3 install gdown
