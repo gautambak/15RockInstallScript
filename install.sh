@@ -2,7 +2,7 @@
 
 
 DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" >/dev/null 2>&1 && pwd)"
-DOWNLOAD_URL=${DOWNLOAD_URL:-"https://drive.google.com/uc?id=1fAuX0jLFUEyZpeBL04EDenNfUDT3mwiO"}
+DOWNLOAD_URL=${DOWNLOAD_URL:-"https://drive.google.com/uc?id=1kkT3d0ZPpb33KNfbFk6Tzmn7uPPo8EQo"}
 
 
 sudo apt-get update
